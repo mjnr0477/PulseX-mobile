@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "PulseX-mobile",
+    "slug": "PulseX-mobile",
+    "version": "1.0.0",
+    "platforms": ["android","ios","web"],
+    "sdkVersion": "54.0.24"
+  }
+}
